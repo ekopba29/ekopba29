@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ekopba29
 - 👀 I’m interested in Programming , Networking, Hacking, AI, ML, DL
 - 🌱 I’m currently learning Laravel, Javascript, etc.
-- 📫 How to reach me : bayu.devmail@gmail.com
